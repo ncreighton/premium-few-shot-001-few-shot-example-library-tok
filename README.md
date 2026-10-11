@@ -1,0 +1,2 @@
+# premium-few-shot-001-few-shot-example-library-tok
+What if have a complete productivity system running today took minutes instead of hours?  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Few-Shot Example Library &amp; Token Budget Calculator — fully configured and ready
